@@ -233,6 +233,7 @@ def main(argv: list[str] | None = None) -> None:
 
 
     #test githuba
+    # dodanie na remote repository
 
 
 if __name__ == '__main__':
